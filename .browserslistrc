@@ -1,3 +1,11 @@
-> 1%
-last 2 versions
-not dead
+# 这个值会被  用来确定需要转译的JavaScript特性和需要添加的CSS浏览器前缀
+# browsersList 参考文档
+# 使用率大于1%的浏览器
+# > 1%
+# 兼容到最后两个版本
+# last 2 versions
+# 没有死掉的
+# not dead
+
+Android >= 4.0
+iOS >= 8
