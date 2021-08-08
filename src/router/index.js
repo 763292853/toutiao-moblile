@@ -31,6 +31,11 @@ const routes = [
         name: 'my',
         component: () => import('@/views/my/')
       }
+      // {
+      //   path: '*',
+      //   name: 'errors',
+      //   component: () => import('@/views/errors/')
+      // }
     ]
   }
 
